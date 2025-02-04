@@ -17,7 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 //-------------------------------------------------------------------------
   
 
+![alt text](assets/img/samples/image.png)
 
-![alt text](image.png)
-
-![alt text](assets/img/samples/image.png) <video controls src="assets/img/samples/Screen_Recording_20250204_180426.mp4" title="alt text"></video>
+<video controls src="assets/img/samples/Screen_Recording_20250204_180426.mp4" title="alt text"></video>
