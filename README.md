@@ -1,7 +1,8 @@
-
 <div align="center">
   <img src="assets/img/vice/vice-logo.png" alt="Vice Magazine App" width="300"/>
-  <h1>Vice Magazine App</h1>
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=435&lines=Welcome+to+Vice+Magazine+App;A+Beautiful+Flutter+Application;Modern+UI%2FUX+Design+Patterns" alt="Typing SVG" />
+</div>
   <p>A stunning Flutter application showcasing magazine content with modern UI/UX design patterns</p>
 </div>
 
