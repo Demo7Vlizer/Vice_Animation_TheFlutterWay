@@ -1,22 +1,42 @@
-# may_app
 
-A new Flutter project.
+<div align="center">
+  <img src="assets/img/vice/vice-logo.png" alt="Vice Magazine App" width="300"/>
+  <h1>Vice Magazine App</h1>
+  <p>A stunning Flutter application showcasing magazine content with modern UI/UX design patterns</p>
+</div>
 
-## Getting Started
+## 📱 App Demo
 
-This project is a starting point for a Flutter application.
+<div align="center">
+  <img src="assets/img/samples/ViceAnimation.gif" alt="App Demo" width="300"/>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## 🌟 Project Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project is a feature-rich magazine browsing application built with Flutter, demonstrating:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-//-------------------------------------------------------------------------
-  
+- 🎨 **Stunning UI Design** with smooth animations and transitions
+- 📱 **Interactive Magazine Browsing** with draggable slider interface
+- 🔍 **Search Functionality** for easy content discovery
+- 💫 **Custom Animations** including infinite draggable slider and tween animations
 
-![alt text](assets/img/samples/image.png)
+## 🎯 Core Components
 
-<video controls src="assets/img/samples/Screen_Recording_20250204_180426.mp4" title="alt text"></video>
+### 🎨 UI Components
+- `CustomTweenAnimation` - Smooth entry/exit animations
+- `InfiniteDragableSlider` - Magazine browsing interface
+- `MagazineCoverImage` - Magazine display component
+- `HeartAndSaveButtons` - Interactive action buttons
+
+### 🏗️ Features
+- `HomeScreen` - Main magazine browsing interface
+- `MagazinesDetailsScreen` - Detailed magazine view
+- `Magazine` - Core data entity for magazine content
+
+## 💡 Technical Highlights
+
+### 🎨 Design System
+
+## 🛠️ Technical Implementation
+
+### Architecture & Features
